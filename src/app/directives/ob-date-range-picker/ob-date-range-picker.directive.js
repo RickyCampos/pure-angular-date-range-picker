@@ -241,7 +241,6 @@ class ObDateRangePickerController {
         this._range.start = range.start;
         this._range.end = range.end;
         this.isCustomVisible = this.calendarsAlwaysOn() || false;
-        this.applyChanges();
       } else {
         this.isCustomVisible = true;
       }
