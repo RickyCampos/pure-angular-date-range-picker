@@ -7,9 +7,9 @@ A pure Angular (moment.js is the only dependency) day & date range picker, inspi
 Installation
 -------------
 bower:  
-`bower install --save ob-daterangepicker`  
+`bower install --save ob-daterangepicker-manual`  
 npm:  
-`npm install --save ob-daterangepicker`
+`npm install --save ob-daterangepicker-manual`
 
 ----------
 
