@@ -1,5 +1,5 @@
 {
-  "name": "ob-daterangepicker",
+  "name": "ob-daterangepicker-manual",
   "version": "0.7.0",
   "dependencies": {
     "moment": "~2.10.6",
